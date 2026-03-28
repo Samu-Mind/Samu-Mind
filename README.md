@@ -3,7 +3,7 @@
 Frontend developer especializado en React, TypeScript y Tailwind CSS.
 Fullstack con Laravel + Inertia.js. Animaciones interactivas con Rive.
 
-Actualmente construyendo **[ClientKosmos](https://github.com/Samu-Mind/clientkosmos)** —
+Actualmente construyendo **[ClientKosmos]([https://github.com/Samu-Mind/clientkosmos](https://github.com/IES-Almunia-25-26-PIDAW/client-kosmos-SamuelAyllon))** —
 plataforma SaaS para freelancers con arquitectura fullstack, 156+ tests y asistente IA integrado.
 
 ---
@@ -35,7 +35,7 @@ plataforma SaaS para freelancers con arquitectura fullstack, 156+ tests y asiste
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [ClientKosmos](https://github.com/Samu-Mind/clientkosmos) | SaaS freemium para freelancers | Laravel 12 · React 19 · TypeScript · Inertia.js |
+| [ClientKosmos]([https://github.com/Samu-Mind/clientkosmos](https://github.com/IES-Almunia-25-26-PIDAW/client-kosmos-SamuelAyllon)) | SaaS freemium para freelancers | Laravel 12 · React 19 · TypeScript · Inertia.js |
 
 ---
 
