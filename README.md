@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+Tailwind;Rive+Creator+%7C+Motion+Design;Building+ClientKosmos+%F0%9F%9A%80&font=Fira+Code&center=true&width=440&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;React+%C2%B7+TypeScript+%C2%B7+Rive;Interfaces+que+se+mueven;Building+ClientKosmos+%F0%9F%9A%80&font=Fira+Code&center=true&width=440&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
 ## Hey, soy Samuel 👋
 
-Desarrollador frontend con base sólida en **React**, **TypeScript** y **Tailwind CSS**, en transición activa hacia el diseño de interfaces y la **animación interactiva con Rive**.
+**Creative Developer** — diseño y construyo interfaces interactivas con animación real integrada, no decorativa.
 
-Formación en DAM con nociones fullstack en **Laravel + Inertia.js** y despliegue containerizado con **Docker**. Uso estratégico de herramientas de IA para acelerar flujos de maquetación y desarrollo.
+Mi especialidad es **Rive**: state machines, bone rigs, sistemas de animación modulares listos para integrar en web, apps y motores de juego. Stack frontend en **React + TypeScript + Tailwind CSS**, base fullstack con **Laravel + Inertia.js** y despliegue con **Docker**.
 
-- 🔭 Construyendo **[ClientKosmos](https://github.com/IES-Almunia-25-26-PIDAW/client-kosmos-SamuelAyllon)** — SaaS freemium para freelancers
-- 🎮 Creando animaciones interactivas con **Rive** para un juego de Canasta Uruguaya en Defold
-- 🌱 Aprendiendo **UI/UX Design** y profundizando en **state machines** y **bone rigs**
+- 🔭 Construyendo **[ClientKosmos](https://github.com/IES-Almunia-25-26-PIDAW/client-kosmos-SamuelAyllon)** — SaaS para freelancers
+- 🎮 Diseñando sistemas de animación con **Rive** para un juego de Canasta Uruguaya en Defold
+- 🌱 Profundizando en **UI/UX Design** y animación interactiva avanzada
 - 📍 Jerez de la Frontera, Cádiz
 
 ---
@@ -58,10 +58,10 @@ Formación en DAM con nociones fullstack en **Laravel + Inertia.js** y despliegu
 
 ---
 
-### 🎮 Lo que estoy construyendo
+### 🎮 Rive en producción
 
-- **Animaciones Rive para Canasta Uruguaya** — Diseño de arquitectura de animaciones (5-6 archivos `.riv`), `CardStateMachine` con capas paralelas, personaje croupier con bone rig, integradas en motor **Defold**
-- **Roadmap de Rive Creator** — Plan de formación autodidacta de 24 semanas para especializarme en animación interactiva web
+- **Canasta Uruguaya (Defold)** — Arquitectura completa de animación: CardStateMachine con capas paralelas, personaje croupier con bone rig y reacciones por toque. Sistema modular que el equipo de desarrollo integra directamente.
+- **Rive Creator Roadmap** — Plan autodidacta de 24 semanas en animación interactiva avanzada.
 
 ---
 
@@ -70,10 +70,6 @@ Formación en DAM con nociones fullstack en **Laravel + Inertia.js** y despliegu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samu-Mind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu-Mind&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samu-Mind&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -87,7 +83,7 @@ Formación en DAM con nociones fullstack en **Laravel + Inertia.js** y despliegu
   <a href="https://www.youtube.com/@Samuel-frontend">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="[https://rive.app/community/user/Samu-Mind/](https://rive.app/@SamuelAyllon/)">
+  <a href="https://rive.app/@SamuelAyllon/">
     <img src="https://img.shields.io/badge/Rive_Community-1D1D1D?style=for-the-badge&logoColor=white" alt="Rive"/>
   </a>
   <a href="mailto:samuelayllonsevilla1@gmail.com">
